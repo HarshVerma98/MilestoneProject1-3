@@ -13,3 +13,7 @@ To solve this challenge you’ll need to draw on skills you learned in tutorials
 3) Create a new Cocoa Touch Class responsible for the detail view controller, and give it properties for its image view and the image to load.
 4) You’ll also need to adjust your storyboard to include the detail view controller, including using Auto Layout to pin its image view correctly.
 5) You will need to use UIActivityViewController to share your flag.
+
+
+![screen01](https://user-images.githubusercontent.com/49474526/128633200-818fb9b5-e598-41be-ba42-fbecbdfbb0bf.png)
+![screen02](https://user-images.githubusercontent.com/49474526/128633203-edba6ece-1d09-4d77-873e-c06b60c5d3b0.png)
